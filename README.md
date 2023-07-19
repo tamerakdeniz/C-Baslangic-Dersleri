@@ -17,4 +17,6 @@ Depo aşağıdaki örnekleri içermektedir:
 <h3>Dizin Örnekleri:</h3> Dosyalara nasıl erişileceği, okunacağı ve yazılacağı hakkında örnekler.
 <br>
 <br>
+<br>
+<br>
 <t><u>Bu Repo'da yapılan uygulamalar Yazılım Bilimi kanalının: <br> "https://www.youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql" eğitiminden referans alınmıştır</u></t>
