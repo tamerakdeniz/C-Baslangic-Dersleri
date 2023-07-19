@@ -16,4 +16,4 @@ Depo aşağıdaki örnekleri içermektedir:
 <h3>Yapı Örnekleri:</h3> Yapıların nasıl tanımlanacağı, yapı elemanlarına nasıl erişileceği ve yapıları kullanarak nasıl veri düzenleneceği hakkında örnekler.<br>
 <h3>Dizin Örnekleri:</h3> Dosyalara nasıl erişileceği, okunacağı ve yazılacağı hakkında örnekler.
 
-<t><u>Bu Repo'da yapılan uygulamalar Yazılım Bilimi kanalının: <br> "https://www.youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql" derslerinden referans alınmıştır</u></t>
+<t><u>Bu Repo'da yapılan uygulamalar Yazılım Bilimi kanalının: <br> "https://www.youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql" eğitiminden referans alınmıştır</u></t>
